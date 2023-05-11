@@ -1,3 +1,7 @@
-5/10 Ruby Silver Chapter3~4を読んで、問題集を解いた
+5/10<br>
+  RubySilver Chapter3~4<br>
 
-5/11
+5/11<br>
+  データベース・SQL基礎3~8<br>
+  Ruby基礎1<br>
+  RubySilver Chapter5<br>
